@@ -1,3 +1,3 @@
-## Investment Calculator App using ReactJs 
+# Investment Calculator App using ReactJs 
 
-# Link: https://investmentcalci.netlify.app/
+## Link: https://investmentcalci.netlify.app/
